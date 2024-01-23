@@ -21,3 +21,4 @@ After installing and configuring Java, Maven, and Gauge, the project can be buil
 These commands will initiate the building and testing processes, and subsequently generate a report using Gauge.
 
 HTML report is located under `reports` folder.
+Browser can be changed form env/defaults/default.properties 
